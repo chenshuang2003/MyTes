@@ -60,3 +60,17 @@
    * 套接字
    * DNS域名解析器
    * 内网搭建，链路层串联
+
+## 代码插入 
+
+插入不同的代码，要声明代码块
+
+```c
+   #include<stdio.h>
+   int main(){
+	printf("hahah");
+	return 0;
+   }
+```
+
+c cpp java python/py
