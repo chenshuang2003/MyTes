@@ -73,4 +73,4 @@
    }
 ```
 
-c cpp java python/py
+c cpp java bash(终端命令) python/py
